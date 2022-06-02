@@ -1,5 +1,4 @@
-from SotiimPackage.workshops import unreleased
-from pip import main
+from SotiimPackage import unreleased
 
 
 if __name__ == "__main__":
